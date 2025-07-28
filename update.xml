@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="ggelbajlcmmdnjonkilkegeepobakcgk">
     <updatecheck 
-      codebase="https://feee-max.github.io/keyword-blocker/KeywordBlocker.crx" 
+      codebase="https://feee-max.github.io/keyword-blocker/Keyword-Blocker.crx" 
       version="1.0" />
   </app>
 </gupdate>
