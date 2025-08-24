@@ -3,6 +3,6 @@
   <app appid="ggelbajlcmmdnjonkilkegeepobakcgk">
     <updatecheck 
       codebase="https://feee-max.github.io/keyword-blocker/Keyword-Blocker.crx" 
-      version="1.0" />
+      version="1.1" />
   </app>
 </gupdate>
